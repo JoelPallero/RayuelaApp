@@ -1,0 +1,2 @@
+# RayuelaApp
+Versión para celulares
